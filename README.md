@@ -183,8 +183,7 @@ Automated Report
 - Data Cleaning
 - Outlier Detection
 - Basic Statistical Analysis
-- Git / GitHub
-- Machine Learning Fundamentals
+- Git Workflow
 
 並嘗試完成一個:
 
