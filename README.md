@@ -175,3 +175,19 @@ Automated Report
 
 ---
 
+## 下階段預計學習:
+
+- SQL
+- SQLite
+- Excel Automation
+- Data Cleaning
+- Outlier Detection
+- Basic Statistical Analysis
+- Git / GitHub
+- Machine Learning Fundamentals
+
+並嘗試完成一個:
+
+> **Python 產線數據分析與自動化報表 Prototype**
+
+---
