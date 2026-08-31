@@ -100,3 +100,10 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 
 ### 4. Matplotlib
 
+目前練習:
+
+- Line Plot
+- Scatter Plot
+- Bar Chart
+- Pie Chart
+- 
