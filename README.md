@@ -138,9 +138,9 @@
 逐步應用於電子實驗與工程數據處理，
 並作為未來半導體製程/量測資料分析專題的前置準備。
 
-- [](./)
-- [](./)
-- [](./)
+- [MOSFET 臨界點視覺化](./Electronics_with_Python/Electronics_Simulation_Day24_08_17_MOSFET_臨界點視覺化.ipynb)
+- [MOSFET 汲極特性曲線](./Electronics_with_Python/Electronics_Simulation_Day26_08_19_MOSFET_汲極特性曲線.ipynb)
+- [MOSFET 負載線與偏壓點分析](./Electronics_with_Python/Electronics_Simulation_08_29_MOSFET_負載線與偏壓點分析.ipynb)
 
 ---
 
