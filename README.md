@@ -20,4 +20,13 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 - 半導體製程資料分析
 - 異常資料偵測與自動化報表
 
-- 
+長期希望將以上能力整合為:
+
+> **Python-based Semiconductor Manufacturing Data Analysis**
+
+利用 Python 對半導體製程、量測或模擬產線資料進行
+資料清理、統計分析、異常偵測、視覺化與自動化報表輸出。
+
+---
+
+
