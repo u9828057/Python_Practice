@@ -206,3 +206,19 @@ Automated Report
 
 ---
 
+## 工具
+
+- Python
+- Google Colab / Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- GitHub
+
+預計添加:
+
+- SQL
+- SQLite
+
+---
+
