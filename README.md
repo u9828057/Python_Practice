@@ -222,3 +222,14 @@ Automated Report
 
 ---
 
+## 目前狀態:
+
+當前階段:
+
+Python Fundamentals
+→ Pandas
+→ NumPy
+→ Matplotlib
+→ **Data Analysis Project (Next)**
+
+這個 Repository 會依照專案的進度持續更新。
