@@ -143,20 +143,20 @@
 暫定流程:
 
 Manufacturing / Measurement Data  
-↓  
-CSV / Excel  
-↓  
-Python  
-↓  
-Pandas Data Cleaning  
-↓  
-Statistical Analysis  
-↓  
-Outlier Detection  
-↓  
-Matplotlib Visualization  
-↓  
-Automated Report
+              ↓  
+          CSV / Excel  
+              ↓  
+            Python  
+              ↓  
+     Pandas Data Cleaning  
+              ↓  
+     Statistical Analysis  
+              ↓  
+       Outlier Detection  
+              ↓  
+   Matplotlib Visualization  
+              ↓  
+       Automated Report
 
 可能分析的資料欄位例如:
 
