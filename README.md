@@ -116,4 +116,24 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 
 ---
 
+## 工程背景
+
+除了 Python 學習之外，目前也在學習電子學與半導體製程相關內容，包含:
+
+- PN Junction
+- MOSFET 基本特性
+- Semiconductor Manufacuring Process
+- Ion Implantation
+- Thin Film / CVD
+- Metrology / Inspection
+- CDSEM
+- OCD
+
+希望未來可以將「電子 / 半導體知識」與「Python 資料分析」
+結合，而不是只學習單純的程式設計。
+
+---
+
+##
+
 
