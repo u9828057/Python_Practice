@@ -142,10 +142,9 @@
 
 暫定流程:
 
-```text
-Manufacturing / Measurement Data
+Manufacturing / Measurement Data  
 ↓
-CSV / Excel
+CSV / Excel  
 ↓
 Python
 ↓
@@ -158,7 +157,6 @@ Outlier Detection
 Matplotlib Visualization
 ↓
 Automated Report
-```
 
 可能分析的資料欄位例如:
 
