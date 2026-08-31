@@ -116,6 +116,40 @@
 
 ---
 
+### 5. Electronics with Python
+
+這部分嘗試將 Python 與電子工程相關問題結合，
+將原本單純的程式語法與資料分析練習進一步應用於工程情境。
+
+目前練習:
+
+- Voltage / Current
+- Resistance
+- Power
+- Frequency
+- MOSFET-Related Parameters
+- Engineering Measurement Data
+- Numerical Calculation
+- Data Visualization
+
+目標:
+
+將 Python、NumPy、Pandas 與 Matplotlib
+逐步應用於電子實驗與工程數據處理，
+並作為未來半導體製程/量測資料分析專題的前置準備。
+
+---
+
+## Repository Structure
+
+- [Python Fundamentals](./)
+- [NumPy Pratice](./NumPy)
+- [Pandas Pratice](./Pandas)
+- [Matplotlib Pratice](./Matplotlib)
+- [Electronics with Python](./Electronics_with_Python)
+
+---
+
 ## 工程背景
 
 除了 Python 學習之外，目前也在學習電子學與半導體製程相關內容，包含:
@@ -138,7 +172,7 @@
 
 目前正在構想的專題:
 
-### Semiconductor Manufacturing Data Analysis & Automation
+### Python-Based Semiconductor Manufacturing Data Analysis
 
 暫定流程:
 
