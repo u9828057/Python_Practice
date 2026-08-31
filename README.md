@@ -191,3 +191,18 @@ Automated Report
 > **Python 產線數據分析與自動化報表 Prototype**
 
 ---
+
+## Repository 目的
+
+這個 Repository 主要紀錄:
+
+1. Python 學習歷程
+2. 資料分析練習
+3. 工程資料處理實作
+4. 專題前置準備
+5. 未來半導體資料分析專題 Prototype
+
+目前仍持續更新中。
+
+---
+
