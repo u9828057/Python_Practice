@@ -138,6 +138,8 @@
 逐步應用於電子實驗與工程數據處理，
 並作為未來半導體製程/量測資料分析專題的前置準備。
 
+目前已完成部分 MOSFET 相關的 Python 分析與視覺化練習:
+
 - [MOSFET 臨界點視覺化](./Electronics_with_Python/Electronics_Simulation_Day24_08_17_MOSFET_臨界點視覺化.ipynb)
 - [MOSFET 汲極特性曲線](./Electronics_with_Python/Electronics_Simulation_Day26_08_19_MOSFET_汲極特性曲線.ipynb)
 - [MOSFET 負載線與偏壓點分析](./Electronics_with_Python/Electronics_Simulation_08_29_MOSFET_負載線與偏壓點分析.ipynb)
@@ -147,9 +149,9 @@
 ## Repository Structure
 
 - [Python Fundamentals](./)
-- [NumPy Pratice](./NumPy)
-- [Pandas Pratice](./Pandas)
-- [Matplotlib Pratice](./Matplotlib)
+- [NumPy Practice](./NumPy)
+- [Pandas Practice](./Pandas)
+- [Matplotlib Practice](./Matplotlib)
 - [Electronics with Python](./Electronics_with_Python)
 
 ---
@@ -177,7 +179,7 @@
 ### Python-Based Semiconductor Manufacturing Data Analysis
 
 目前正在構想將 Python 應用於半導體製程或量測資料分析。  
-這個方向仍屬於 專題前置規畫階段，實際題目與研究方法會依照專題指導方向進行調整。
+這個方向仍屬於 專題前置規劃階段，實際題目與研究方法會依照專題指導方向進行調整。
 
 暫定流程:
 
@@ -208,6 +210,14 @@ Manufacturing / Measurement Data
 - Pressure              # 壓力
 - Measurement Result    # 測量結果
 - Yield                 # 良率
+
+可能分析的目標包含:
+
+- 比較不同 Lot / Wafer 的量測結果
+- 觀察製程參數與量測結果之間的關係
+- 找出可能的異常製程或量測資料
+- 分析製程資料的趨勢與分布
+- 建立資料視覺化與自動化分析流程
 
 初期會先使用模擬資料建立系統，
 之後再依照專題指導方向調整題目與資料來源。
@@ -269,6 +279,6 @@ Python Fundamentals
 → Pandas
 → Matplotlib
 → Electronics with Python
-→ **Data Analysis Project (Next)**
+→ **Semiconductor Data Analysis Prototype (Next)**
 
 這個 Repository 會依照專案的進度持續更新。
