@@ -226,9 +226,10 @@ Manufacturing / Measurement Data
 當前階段:
 
 Python Fundamentals
-→ Pandas
 → NumPy
+→ Pandas
 → Matplotlib
+→ Electronics with Python
 → **Data Analysis Project (Next)**
 
 這個 Repository 會依照專案的進度持續更新。
