@@ -106,4 +106,14 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 - Scatter Plot
 - Bar Chart
 - Pie Chart
-- 
+- Candlestick Chart
+- Axis / Label / Title
+- Data Visualization
+
+目標:
+
+將製程或實驗數據轉換成容易觀察趨勢或異常的圖表。
+
+---
+
+
