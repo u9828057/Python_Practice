@@ -146,7 +146,7 @@
 
 ---
 
-## Repository Structure
+## 資料庫結構
 
 - [Python Fundamentals](./)
 - [NumPy Practice](./NumPy)
