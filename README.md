@@ -31,4 +31,32 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 
 ## 目前學習進度
 
-### 1. 
+### 1. Python Fundamentals
+
+目前完成:
+
+- Variables / Data Types
+- String
+- List
+- Tuple
+- Set
+- Dictionary
+- Conditional Statements
+- Loop
+- Functions
+- Input / Output
+- F-string
+- Basic Debugging
+
+部分練習會使用電子工程相關數據，例如:
+
+- Voltage
+- Current
+- Resistance
+- Power
+- MOSFET VGS
+- Measurement Data
+
+---
+
+
