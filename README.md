@@ -122,7 +122,7 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 
 - PN Junction
 - MOSFET 基本特性
-- Semiconductor Manufacuring Process
+- Semiconductor Manufacturing Process
 - Ion Implantation
 - Thin Film / CVD
 - Metrology / Inspection
@@ -134,6 +134,44 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 
 ---
 
-##
+## 專題方向規劃
 
+目前正在構想的專題:
+
+### Semiconductor Manufacturing Data Analysis & Automation
+
+暫定流程:
+
+Manufacturing / Measurement Data
+↓
+CSV / Excel
+↓
+Python
+↓
+Pandas Data Cleaning
+↓
+Statistical Analysis
+↓
+Outlier Detection
+↓
+Matplotlib Visualization
+↓
+Automated Report
+
+可能分析的資料欄位例如:
+
+- Lot ID                # 批次號碼
+- Wafer ID              # 晶圓號碼
+- Tool ID               # 工具號碼
+- Process Parameter     # 製程參數
+- Critical Dimension    # 關鍵尺寸
+- Temperature           # 溫度
+- Pressure              # 壓力
+- Measurement Result    # 測量結果
+- Yield                 # 良率
+
+初期會先使用模擬資料建立系統，
+之後再依照專題指導方向調整題目與資料來源。
+
+---
 
