@@ -170,9 +170,10 @@
 
 ## 專題方向規劃
 
-目前正在構想的專題:
-
 ### Python-Based Semiconductor Manufacturing Data Analysis
+
+目前正在構想將 Python 應用於半導體製程或量測資料分析。
+這個方向仍屬於 專題前置規畫階段，實際題目與研究方法會依照專題指導方向進行調整。
 
 暫定流程:
 
