@@ -59,4 +59,24 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 
 ---
 
+### 2. NumPy
+
+目前練習內容:
+
+- NumPy Array
+- Array Operations
+- Indexing / Slicing
+- Mean
+- Standard Deviation
+- min / max
+- Reshape
+- 基本數值資料處理
+
+目標: 
+
+利用 NumPy 處理大量工程與量測數據。
+
+---
+
+### 3. Pandas
 
