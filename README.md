@@ -85,3 +85,18 @@ Repositories 用於紀錄我的 Python 學習與資料分析歷程。
 - Series / DataFrame
 - CSV 資料讀取
 - Excel 資料讀取
+- Data Selection
+- Data Filtering
+- Data Sorting
+- Data Cleaning
+- Processing Structured Datasets
+- 基本統計分析
+
+目標:
+
+建立處理製程資料、實驗數據及量測結果的能力。
+
+---
+
+### 4. Matplotlib
+
