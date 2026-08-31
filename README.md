@@ -146,7 +146,7 @@
 
 ---
 
-## 資料庫結構
+## Repository Structure
 
 - [Python Fundamentals](./)
 - [NumPy Practice](./NumPy)
@@ -195,7 +195,7 @@ Manufacturing / Measurement Data
               ↓  
        Outlier Detection  
               ↓  
-   Matplotlib Visualization  
+       Data Visualization  
               ↓  
        Automated Report
 
