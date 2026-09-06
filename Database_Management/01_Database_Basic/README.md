@@ -23,4 +23,4 @@
 
 ## 執行結果
 
-![MySQL Database Basic Result](./)
+![MySQL Database Basic Result](./Database_Management/01_Database_Basic/Images/Image_workbench_result.png)
