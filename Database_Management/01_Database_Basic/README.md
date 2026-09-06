@@ -4,6 +4,8 @@
   
  查看資料庫: 查看現有的資料庫  
  SHOW DATABASES;  
+
+---
  
  建立資料庫: 建立新的資料庫  
  CREATE DATABASE 資料庫名稱;  
