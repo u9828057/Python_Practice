@@ -21,6 +21,8 @@
  打開 MySQL Workbench，連接到本地端的伺服器  
  透過 SQL 指令管理資料庫
 
+ ---
+
 ## 執行結果
 
 ![MySQL Database Basic Result](./Images/Image_workbench_result.png)
