@@ -9,6 +9,8 @@
  
  建立資料庫: 建立新的資料庫  
  CREATE DATABASE 資料庫名稱;  
+
+ -
  
  刪除資料庫: 刪除現有的資料庫  
  DROP DATABASE 資料庫名稱;  
